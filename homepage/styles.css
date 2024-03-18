@@ -1,0 +1,33 @@
+#pic {
+    width: 100%;
+}
+#pic2 {
+    width:100%;
+}
+#pic3 {
+    width:100%
+}
+#pic4 {
+    width: 100%
+}
+
+.col p {
+    font-weight: bolder;
+    font-family: Georgia, serif;
+}
+
+.Pictures {
+    Background-color: #FAFAD2
+}
+
+.h4 {
+    text-align: center;
+}
+
+.bg {
+    background-image:url("Homepage.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
